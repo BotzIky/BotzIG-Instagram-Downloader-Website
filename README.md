@@ -39,12 +39,12 @@ A fast, responsive, and easy-to-use Instagram downloader web application (BotzIG
 ---
 
 ## 🚀 Demo
+Visit the live demo: [TikTok Downloader](https://instagram.botzaku.eu.org)
 
-(Replace this with your live URL once deployed)
+---
 
-```text
-https://instagram.botzaku.eu.org
-```
+## 📸 Screenshots
+![Screenshot](https://cdn.botzaku.eu.org/1wztdfugJg3IAH7WkHv2M8beOHYSgFYrL)
 
 ---
 
@@ -368,6 +368,12 @@ Ideas:
 
 ---
 
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 
+
+---
+
 ## 🐛 Bug Reports
 
 If you find a bug, please open a GitHub issue with:
@@ -392,6 +398,22 @@ If you find a bug, please open a GitHub issue with:
 - Telegram: [BotzAku](https://t.me/BotzAku)
 - WhatsApp: [Channel](https://whatsapp.com/channel/0029VbBjxQl8qIzmg51J5W3x)
 - Discord: [Server](https://discord.gg/Ehr7DrsU)
+
+---
+
+## 🙏 Acknowledgments
+
+- [Paxsenix0](https://github.com/Paxsenix0) for providing the TikTok download API
+- [Bootstrap Icons](https://icons.getbootstrap.com/) for beautiful icons
+- [SweetAlert2](https://sweetalert2.github.io/) for elegant alerts
+- 
+- All contributors and users of this project
+
+---
+
+## ⭐ Star History
+
+If you find this project useful, please consider giving it a star on GitHub!
 
 ---
 
