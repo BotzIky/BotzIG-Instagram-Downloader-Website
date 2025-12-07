@@ -2,8 +2,6 @@
 
 A fast, responsive, and easy-to-use Instagram downloader web application (BotzIG) that allows you to download reels, photos, and videos in high quality.
 
-The UI and UX are based on the **TikBotz TikTok Downloader** layout, with the same header, footer, dark theme, and responsive design.
-
 ---
 
 ## 🌟 Features
