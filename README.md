@@ -411,6 +411,12 @@ If you find a bug, please open a GitHub issue with:
 
 ---
 
+## ❗ Important
+For anyone who wants to use my repositories (Instagram Downloader, TikTok Downloader, and YouTube Downloader), please remove the last four <script> tags at the bottom of index.html if you want to disable the ads.
+![Important](https://cdn.botzaku.eu.org/1aRAMFfMXrnQ9vnNhkRtaJvO8utVJR56v)
+
+---
+
 ## ⭐ Star History
 
 If you find this project useful, please consider giving it a star on GitHub!
