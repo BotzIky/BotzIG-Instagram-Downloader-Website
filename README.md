@@ -39,7 +39,7 @@ A fast, responsive, and easy-to-use Instagram downloader web application (BotzIG
 ---
 
 ## 🚀 Demo
-Visit the live demo: [TikTok Downloader](https://instagram.botzaku.eu.org)
+Visit the live demo: [Instagram Downloader](https://instagram.botzaku.eu.org)
 
 ---
 
