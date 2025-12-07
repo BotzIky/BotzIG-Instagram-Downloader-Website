@@ -207,11 +207,11 @@ GET https://host.optikl.ink/download/instagram?url={INSTAGRAM_URL}
 1. Clone the repository where this Instagram page lives (or the TikBotz repo if you added it there):
 
 ```bash
-git clone https://github.com/BotzIky/TikBotz-TikTok-Downloader-Website.git
-cd TikBotz-TikTok-Downloader-Website
+git clone https://github.com/BotzIky/BotzIG-Instagram-Downloader-Website.git
+cd BotzIG-Instagram-Downloader-Website
 ```
 
-2. Add your `index-instagram.html` (or similar) file to the project root.
+2. Add your `index.html` (or similar) file to the project root.
 
 3. Serve locally (optional, but recommended for testing CORS and layout):
 
@@ -244,7 +244,7 @@ http://localhost:8000/index-instagram.html
 5. Your site will be live at:
 
 ```text
-https://yourusername.github.io/TikBotz-TikTok-Downloader-Website
+https://yourusername.github.io/BotzIG-Instagram-Downloader-Website
 ```
 
 (You can link or redirect that to your Instagram-specific page.)
@@ -403,7 +403,7 @@ If you find a bug, please open a GitHub issue with:
 
 ## 🙏 Acknowledgments
 
-- [Paxsenix0](https://github.com/Paxsenix0) for providing the TikTok download API
+- [Paxsenix0](https://github.com/Paxsenix0) for providing the Instagram download API
 - [Bootstrap Icons](https://icons.getbootstrap.com/) for beautiful icons
 - [SweetAlert2](https://sweetalert2.github.io/) for elegant alerts
 - 
